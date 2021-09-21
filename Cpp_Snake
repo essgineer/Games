@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <conio.h>
 using namespace std;
-
+ 
 
 bool gameOver = false;
 const int width = 20;
